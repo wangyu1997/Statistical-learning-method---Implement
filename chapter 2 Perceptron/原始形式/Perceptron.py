@@ -49,7 +49,7 @@ def main():
     train_data1 = [[1, 3, 1], [2, 2, 1], [3, 8, 1], [2, 6, 1], [3, 3, 1], [3, 4, 1], [5, 5, 1]]  # 正样本
     train_data2 = [[2, 1, -1], [4, 1, -1], [6, 2, -1], [7, 3, -1], [3, 1, -1], [4, 1, -1], [5, 2, -1]]  # 负样本
     train_data = np.array(train_data1 + train_data2)  # 合并正负样本数据
-    p = Perceptron(train_data, 100, 0.01)
+    p = Perceptron(train_data, 100, 0.001)
     p.train()
 
 
