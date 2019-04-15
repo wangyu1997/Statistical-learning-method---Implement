@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d2b288c-f3fe-4fbf-9510-e8487be65086" name="Default Changelist" comment="" />
+    <list default="true" id="7d2b288c-f3fe-4fbf-9510-e8487be65086" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,6 +14,8 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/$Perceptron__1_.coverage" NAME="Perceptron (1) Coverage Results" MODIFIED="1555130382687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 2 Perceptron/对偶形式" />
     <SUITE FILE_PATH="coverage/$perceptron.coverage" NAME="perceptron Coverage Results" MODIFIED="1555125589673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 2 Perceptron/原始形式" />
+    <SUITE FILE_PATH="coverage/Statistical_learning_method___Implement$Perceptron.coverage" NAME="Perceptron Coverage Results" MODIFIED="1555252110680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 2 Perceptron/原始形式" />
+    <SUITE FILE_PATH="coverage/Statistical_learning_method___Implement$Perceptron__1_.coverage" NAME="Perceptron (1) Coverage Results" MODIFIED="1555255225801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 2 Perceptron/对偶形式" />
     <SUITE FILE_PATH="coverage/$Perceptron.coverage" NAME="Perceptron Coverage Results" MODIFIED="1555130379623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 2 Perceptron/原始形式" />
     <SUITE FILE_PATH="coverage/$test.coverage" NAME="test Coverage Results" MODIFIED="1555125672725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter 2 Perceptron" />
   </component>
@@ -20,8 +24,8 @@
       <file leaf-file-name="Perceptron.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter 2 Perceptron/原始形式/Perceptron.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1488">
-              <caret line="50" column="64" lean-forward="false" selection-start-line="48" selection-start-column="3" selection-end-line="50" selection-end-column="64" />
+            <state relative-caret-position="339">
+              <caret line="51" column="34" lean-forward="false" selection-start-line="51" selection-start-column="34" selection-end-line="51" selection-end-column="34" />
               <folding>
                 <element signature="e#18#36#0" expanded="true" />
               </folding>
@@ -32,9 +36,11 @@
       <file leaf-file-name="Perceptron.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chapter 2 Perceptron/对偶形式/Perceptron.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="497">
-              <caret line="83" column="40" lean-forward="false" selection-start-line="83" selection-start-column="40" selection-end-line="83" selection-end-column="40" />
-              <folding />
+            <state relative-caret-position="-92">
+              <caret line="92" column="0" lean-forward="true" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+              <folding>
+                <element signature="e#18#36#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -67,7 +73,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="1680" />
     <option name="height" value="1050" />
   </component>
@@ -92,19 +98,25 @@
         <subPane>
           <expand>
             <path>
-              <item name="统计学习方法" type="b2602c69:ProjectViewProjectNode" />
-              <item name="统计学习方法" type="462c0819:PsiDirectoryNode" />
+              <item name="Statistical-learning-method---Implement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Statistical-learning-method---Implement" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="统计学习方法" type="b2602c69:ProjectViewProjectNode" />
-              <item name="统计学习方法" type="462c0819:PsiDirectoryNode" />
+              <item name="Statistical-learning-method---Implement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Statistical-learning-method---Implement" type="462c0819:PsiDirectoryNode" />
               <item name="chapter 2 Perceptron" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="统计学习方法" type="b2602c69:ProjectViewProjectNode" />
-              <item name="统计学习方法" type="462c0819:PsiDirectoryNode" />
+              <item name="Statistical-learning-method---Implement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Statistical-learning-method---Implement" type="462c0819:PsiDirectoryNode" />
               <item name="chapter 2 Perceptron" type="462c0819:PsiDirectoryNode" />
               <item name="原始形式" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Statistical-learning-method---Implement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Statistical-learning-method---Implement" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter 2 Perceptron" type="462c0819:PsiDirectoryNode" />
+              <item name="对偶形式" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -251,17 +263,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893288" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893288" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.69868994" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3286026" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.105006106" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="SciView" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31318682" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43284494" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -300,15 +313,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2511">
           <caret line="83" column="40" lean-forward="true" selection-start-line="83" selection-start-column="40" selection-end-line="83" selection-end-column="40" />
-          <folding />
+          <folding>
+            <element signature="e#18#36#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter 2 Perceptron/test.py" />
     <entry file="file://$PROJECT_DIR$/chapter 2 Perceptron/原始形式/Perceptron.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1488">
-          <caret line="50" column="64" lean-forward="false" selection-start-line="48" selection-start-column="3" selection-end-line="50" selection-end-column="64" />
+        <state relative-caret-position="339">
+          <caret line="51" column="34" lean-forward="false" selection-start-line="51" selection-start-column="34" selection-end-line="51" selection-end-column="34" />
           <folding>
             <element signature="e#18#36#0" expanded="true" />
           </folding>
@@ -317,9 +332,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter 2 Perceptron/对偶形式/Perceptron.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="83" column="40" lean-forward="false" selection-start-line="83" selection-start-column="40" selection-end-line="83" selection-end-column="40" />
-          <folding />
+        <state relative-caret-position="-92">
+          <caret line="92" column="0" lean-forward="true" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+          <folding>
+            <element signature="e#18#36#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
