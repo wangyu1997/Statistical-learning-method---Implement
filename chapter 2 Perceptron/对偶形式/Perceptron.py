@@ -85,9 +85,9 @@ class Perceptron:
     @staticmethod
     def draw_line(w, b):
         x1 = np.linspace(0, 8, 100)
-        deta = 0.0000000000001 #纠正参数
+        delta = 0.0000000000001 #纠正参数
         if w[1] is 0.0:
-            w[1] += deta
+            w[1] += delta
         x2 = (-b - w[0] * x1) / w[1]
         plt.plot(x1, x2, c='r')
 
